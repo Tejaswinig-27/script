@@ -1,10 +1,9 @@
 echo "........start........"
-mkdir tejudev
 cd tejudev
-touch file1 > "this is my first file"
-touch file2 > "this is my second file"
+touch file4 > "this is my fourth file"
+touch file5 > "this is my fifth file"
 ls
-cat file1
-cat file2
+cat file4
+cat file5
 echo "display file"
 echo ".......end......."
